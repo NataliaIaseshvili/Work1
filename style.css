@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Smooch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Smooch&family=Sriracha&display=swap');
+body{
+    background-color: antiquewhite;
+}
+.avatar{
+    height: 400px;
+    width: 300px;
+}
+.first_style{font-family: 'Courgette', cursive;}
+h1{
+    font-size: 50px;color: magenta;
+}
+li{
+    font-size: 25px;
+}
+.abc{
+    font-family: 'Sriracha', cursive;
+}
+
+.aaa{
+    font-size: 25px;font-weight: bolder;
+}
+.ddd{
+    font-size: 30px;font-weight: bolder;
+}
